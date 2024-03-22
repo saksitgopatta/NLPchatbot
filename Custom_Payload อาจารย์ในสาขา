@@ -1,0 +1,239 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+      "contents": [
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "direction": "ltr",
+          "hero": {
+            "size": "full",
+            "aspectRatio": "62:75",
+            "type": "image",
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/cb6e785b-dsc4134.jpg",
+            "aspectMode": "fit"
+          },
+          "footer": {
+            "layout": "horizontal",
+            "contents": [
+              {
+                "text": "ผศ.วิมล กิตติรักษ์ปัญญา",
+                "weight": "bold",
+                "type": "text",
+                "align": "center",
+                "contents": []
+              }
+            ],
+            "type": "box"
+          },
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "contents": [],
+                "align": "center",
+                "text": "ประธานบริหารหลักสูตร",
+                "weight": "bold",
+                "type": "text"
+              }
+            ],
+            "type": "box"
+          }
+        },
+        {
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "align": "center",
+                "contents": [],
+                "text": "อาจารย์ประจำหลักสูตร",
+                "type": "text",
+                "weight": "bold"
+              }
+            ],
+            "type": "box"
+          },
+          "type": "bubble",
+          "direction": "ltr",
+          "size": "kilo",
+          "footer": {
+            "contents": [
+              {
+                "type": "text",
+                "align": "center",
+                "weight": "bold",
+                "contents": [],
+                "text": "ผศ.ยุพิน พวกยะ"
+              }
+            ],
+            "type": "box",
+            "layout": "horizontal"
+          },
+          "hero": {
+            "aspectMode": "fit",
+            "aspectRatio": "62:75",
+            "type": "image",
+            "size": "full",
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/90aceff2-dsc4146.jpg"
+          }
+        },
+        {
+          "footer": {
+            "contents": [
+              {
+                "weight": "bold",
+                "align": "center",
+                "type": "text",
+                "text": "อาจารย์จิรศักดิ์ ชุมวรานนท์",
+                "contents": []
+              }
+            ],
+            "type": "box",
+            "layout": "horizontal"
+          },
+          "header": {
+            "contents": [
+              {
+                "text": "อาจารย์ประจำหลักสูตร",
+                "type": "text",
+                "align": "center",
+                "contents": [],
+                "weight": "bold"
+              }
+            ],
+            "type": "box",
+            "layout": "vertical"
+          },
+          "hero": {
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/654fd428-2019-06-12-020931.jpg",
+            "aspectMode": "fit",
+            "aspectRatio": "62:75",
+            "type": "image",
+            "size": "full"
+          },
+          "type": "bubble",
+          "direction": "ltr",
+          "size": "kilo"
+        },
+        {
+          "direction": "ltr",
+          "footer": {
+            "contents": [
+              {
+                "text": "ผศ.สาโรช ปุริสังคหะ",
+                "contents": [],
+                "weight": "bold",
+                "align": "center",
+                "type": "text"
+              }
+            ],
+            "layout": "horizontal",
+            "type": "box"
+          },
+          "type": "bubble",
+          "header": {
+            "contents": [
+              {
+                "contents": [],
+                "text": "อาจารย์ประจำหลักสูตร",
+                "type": "text",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box"
+          },
+          "hero": {
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/6e692bc6-2018-01-09-110110.jpg",
+            "aspectRatio": "62:75",
+            "type": "image",
+            "aspectMode": "fit",
+            "size": "full"
+          },
+          "size": "kilo"
+        },
+        {
+          "type": "bubble",
+          "footer": {
+            "layout": "horizontal",
+            "contents": [
+              {
+                "contents": [],
+                "type": "text",
+                "weight": "bold",
+                "align": "center",
+                "text": "ดร.กันยาลักษณ์ โพธิ์ดง"
+              }
+            ],
+            "type": "box"
+          },
+          "size": "kilo",
+          "header": {
+            "layout": "vertical",
+            "type": "box",
+            "contents": [
+              {
+                "contents": [],
+                "weight": "bold",
+                "align": "center",
+                "type": "text",
+                "text": "อาจารย์ประจำหลักสูตร"
+              }
+            ]
+          },
+          "hero": {
+            "aspectRatio": "62:75",
+            "type": "image",
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/ecc8db18-dsc4115.jpg",
+            "aspectMode": "fit",
+            "size": "full"
+          },
+          "direction": "ltr"
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "footer": {
+            "type": "box",
+            "contents": [
+              {
+                "text": "ดร.วิโรจน์ ยอดสวัสดิ์",
+                "contents": [],
+                "align": "center",
+                "weight": "bold",
+                "type": "text"
+              }
+            ],
+            "layout": "horizontal"
+          },
+          "hero": {
+            "url": "https://www.aru.ac.th/myadmin/uploads/sci/staff/b86d6c06-dsc4112.jpg",
+            "type": "image",
+            "aspectRatio": "62:75",
+            "size": "full",
+            "aspectMode": "fit"
+          },
+          "direction": "ltr",
+          "header": {
+            "contents": [
+              {
+                "contents": [],
+                "align": "center",
+                "weight": "bold",
+                "type": "text",
+                "text": "อาจารย์ผู้สอน"
+              }
+            ],
+            "type": "box",
+            "layout": "vertical"
+          }
+        }
+      ],
+      "type": "carousel"
+    }
+  }
+}
