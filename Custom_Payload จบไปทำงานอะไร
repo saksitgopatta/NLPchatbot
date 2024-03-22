@@ -1,0 +1,32 @@
+{
+  "line": {
+    "altText": "Flex Message",
+    "contents": {
+      "contents": [
+        {
+          "type": "bubble",
+          "direction": "ltr",
+          "header": {
+            "type": "box",
+            "contents": [
+              {
+                "align": "center",
+                "text": "เรียนจบแล้วทำงานอะไร",
+                "type": "text",
+                "contents": []
+              }
+            ],
+            "layout": "vertical"
+          },
+          "hero": {
+            "type": "image",
+            "size": "full",
+            "url": "https://r2.easyimg.io/o43p8scjs/รียนจบแล้วทำงานอะไร_นักวิชาการสายวิทยาการคอมพิวเตอร์_หรือ_นักวิทยาศาสตร์ทางคอมพิวเตอร์_นักวิเคราะห์และออกแบบระบบงานคอมพิวเตอร์_นักวิทยาการข้อมูล_นักวิเคราะห์ข้อมูล_นักดูแลระบบฐานข้อมูล_ผู้ดูแลระบบ.png"
+          }
+        }
+      ],
+      "type": "carousel"
+    },
+    "type": "flex"
+  }
+}
