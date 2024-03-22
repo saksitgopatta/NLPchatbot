@@ -1,0 +1,107 @@
+{
+  "line": {
+    "altText": "Flex Message",
+    "contents": {
+      "contents": [
+        {
+          "hero": {
+            "aspectRatio": "1:1",
+            "url": "https://img2.pic.in.th/pic/19310fc7a652fefc9.png",
+            "size": "full",
+            "type": "image",
+            "aspectMode": "fit"
+          },
+          "direction": "ltr",
+          "header": {
+            "layout": "vertical",
+            "type": "box",
+            "contents": [
+              {
+                "align": "center",
+                "contents": [],
+                "weight": "bold",
+                "text": "ปี 1 เรียนอะไร",
+                "type": "text"
+              }
+            ]
+          },
+          "type": "bubble"
+        },
+        {
+          "header": {
+            "layout": "vertical",
+            "type": "box",
+            "contents": [
+              {
+                "align": "center",
+                "text": "ปี 2 เรียนอะไร",
+                "weight": "bold",
+                "type": "text",
+                "contents": []
+              }
+            ]
+          },
+          "type": "bubble",
+          "hero": {
+            "size": "full",
+            "type": "image",
+            "aspectMode": "fit",
+            "aspectRatio": "1:1",
+            "url": "https://img5.pic.in.th/file/secure-sv1/2712aee7df1054044.png"
+          },
+          "direction": "ltr"
+        },
+        {
+          "type": "bubble",
+          "hero": {
+            "type": "image",
+            "size": "full",
+            "url": "https://img5.pic.in.th/file/secure-sv1/375338082c6fcd581.png",
+            "aspectRatio": "1:1",
+            "aspectMode": "fit"
+          },
+          "direction": "ltr",
+          "header": {
+            "contents": [
+              {
+                "align": "center",
+                "contents": [],
+                "weight": "bold",
+                "type": "text",
+                "text": "ปี 3 เรียนอะไร"
+              }
+            ],
+            "type": "box",
+            "layout": "vertical"
+          }
+        },
+        {
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "weight": "bold",
+                "text": "ปี 4 เรียนอะไร",
+                "contents": [],
+                "align": "center"
+              }
+            ],
+            "type": "box"
+          },
+          "hero": {
+            "size": "full",
+            "aspectRatio": "1:1",
+            "type": "image",
+            "aspectMode": "fit",
+            "url": "https://img2.pic.in.th/pic/42537b5bf93562c14.png"
+          },
+          "type": "bubble",
+          "direction": "ltr"
+        }
+      ],
+      "type": "carousel"
+    },
+    "type": "flex"
+  }
+}
