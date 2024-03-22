@@ -1,0 +1,233 @@
+{
+  "line": {
+    "altText": "Flex Message",
+    "type": "flex",
+    "contents": {
+      "contents": [
+        {
+          "type": "bubble",
+          "direction": "ltr",
+          "body": {
+            "contents": [
+              {
+                "text": "เรียนเกี่ยวกับอะไร",
+                "contents": [],
+                "weight": "bold",
+                "type": "text",
+                "align": "center",
+                "size": "xl"
+              }
+            ],
+            "type": "box",
+            "layout": "vertical"
+          },
+          "hero": {
+            "type": "image",
+            "url": "https://img.freepik.com/free-vector/modern-desktop-computer-concept-illustration_114360-11616.jpg?t=st=1710302315~exp=1710305915~hmac=2bc091745c1e41532586d465874bc9f78dbf73d7445a0e6a9588ed65710e3ddb&w=740",
+            "size": "full"
+          },
+          "footer": {
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "label": "กดเพื่อดูข้อมูล",
+                  "type": "message",
+                  "text": "เรียนเกี่ยวกับอะไร"
+                }
+              }
+            ],
+            "type": "box",
+            "layout": "horizontal"
+          }
+        },
+        {
+          "hero": {
+            "url": "https://img.freepik.com/free-vector/isometric-university-concept_23-2148182680.jpg?t=st=1710257460~exp=1710261060~hmac=d9e0176e554be846849427acd82b9d5e150be3205bb06d9bba916e6f299ce799&w=740",
+            "size": "full",
+            "type": "image"
+          },
+          "body": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "weight": "bold",
+                "contents": [],
+                "text": "โครงสร้างหลักสูตร",
+                "align": "center",
+                "size": "xl"
+              }
+            ],
+            "type": "box"
+          },
+          "footer": {
+            "layout": "horizontal",
+            "type": "box",
+            "contents": [
+              {
+                "action": {
+                  "uri": "https://drive.google.com/file/d/1q7_FeBwK0aTU6SzTUtReQBT58LJNMcXv/view?usp=sharing",
+                  "type": "uri",
+                  "label": "กดเพื่อดูข้อมูล"
+                },
+                "type": "button"
+              }
+            ]
+          },
+          "direction": "ltr",
+          "type": "bubble"
+        },
+        {
+          "type": "bubble",
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "contents": [],
+                "text": "แนะนำอาจารในสาขา",
+                "weight": "bold",
+                "type": "text",
+                "size": "xl",
+                "align": "center"
+              }
+            ]
+          },
+          "direction": "ltr",
+          "hero": {
+            "size": "full",
+            "url": "https://img.freepik.com/free-vector/videocalling-with-therapist-concept_23-2148521901.jpg?t=st=1710257556~exp=1710261156~hmac=a0633612fb7ef072df41131cd2b39e03fc16515846edba5517058a00be3e2004&w=740",
+            "type": "image"
+          },
+          "footer": {
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "text": "อาจารย์ในสาขา",
+                  "label": "กดเพื่อดูข้อมูล",
+                  "type": "message"
+                }
+              }
+            ],
+            "type": "box",
+            "layout": "horizontal"
+          }
+        },
+        {
+          "type": "bubble",
+          "hero": {
+            "url": "https://img.freepik.com/free-vector/hand-drawn-checklist-background_23-2148070711.jpg?t=st=1710232437~exp=1710236037~hmac=2e8989ff48c3e27a22cc35027676154add122dcf701e2d262971b7f708764c88&w=740",
+            "type": "image",
+            "size": "full"
+          },
+          "body": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "text": "คุณสมบัติของผู้เข้าศึกษา",
+                "contents": [],
+                "type": "text",
+                "size": "xl",
+                "weight": "bold",
+                "align": "center"
+              }
+            ],
+            "type": "box"
+          },
+          "direction": "ltr",
+          "footer": {
+            "type": "box",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "text": "คุณสมบัติ",
+                  "label": "กดเพื่อดูข้อมูล"
+                }
+              }
+            ],
+            "layout": "horizontal"
+          }
+        },
+        {
+          "hero": {
+            "type": "image",
+            "url": "https://img.freepik.com/free-vector/stack-money-gold-coins-3d-cartoon-style-icon-coins-with-dollar-sign-wad-cash-currency-flat-vector-illustration-wealth-investment-success-savings-economy-profit-concept_74855-26108.jpg?t=st=1710272764~exp=1710276364~hmac=fc2dd235df15384d584e6d907b24f0c236ebad6caa151ee6f5252a39229c4467&w=826",
+            "size": "full"
+          },
+          "type": "bubble",
+          "body": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "text": "ค่าธรรมเนียมการศึกษา",
+                "contents": [],
+                "size": "xl",
+                "align": "center",
+                "weight": "bold",
+                "type": "text"
+              }
+            ],
+            "type": "box"
+          },
+          "direction": "ltr",
+          "footer": {
+            "type": "box",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "กดเพื่อดูข้อมูล",
+                  "text": "ค่าธรรมเนียมการศึกษา"
+                }
+              }
+            ],
+            "layout": "horizontal"
+          }
+        },
+        {
+          "hero": {
+            "type": "image",
+            "size": "full",
+            "url": "https://img.freepik.com/free-vector/flat-contact-us-background_23-2148181315.jpg?t=st=1710302257~exp=1710305857~hmac=5dd13e3d2a9063934cc6948033a95cdcf78aa5727e391467ef8d66ec12aa53f6&w=740"
+          },
+          "footer": {
+            "layout": "horizontal",
+            "type": "box",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "text": "ข้อมูลการติดต่อ",
+                  "type": "message",
+                  "label": "กดเพื่อดูข้อมูล"
+                }
+              }
+            ]
+          },
+          "direction": "ltr",
+          "body": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "size": "xl",
+                "text": "ข้อมูลการติดต่อ",
+                "align": "center",
+                "contents": [],
+                "type": "text",
+                "weight": "bold"
+              }
+            ],
+            "type": "box"
+          },
+          "type": "bubble"
+        }
+      ],
+      "type": "carousel"
+    }
+  }
+}
