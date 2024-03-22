@@ -1,0 +1,156 @@
+{
+  "line": {
+    "type": "flex",
+    "contents": {
+      "contents": [
+        {
+          "header": {
+            "contents": [
+              {
+                "align": "center",
+                "contents": [],
+                "weight": "bold",
+                "size": "md",
+                "text": "ระบบสารสนเทศการปลูกข้าว",
+                "type": "text"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box"
+          },
+          "hero": {
+            "aspectMode": "cover",
+            "aspectRatio": "1.100:1",
+            "type": "image",
+            "size": "full",
+            "url": "https://r2.easyimg.io/d9xzalto8/63-4.jpg"
+          },
+          "action": {
+            "uri": "https://drive.google.com/file/d/14JeJfyf-4Nu-bfgltbeBnQzEeXUqJeXB/view?usp=sharing",
+            "type": "uri"
+          },
+          "direction": "ltr",
+          "type": "bubble"
+        },
+        {
+          "hero": {
+            "aspectMode": "cover",
+            "type": "image",
+            "size": "full",
+            "aspectRatio": "1.100:1",
+            "url": "https://r2.easyimg.io/1tyi4o1h5/62-2.jpg"
+          },
+          "type": "bubble",
+          "direction": "ltr",
+          "action": {
+            "type": "uri",
+            "uri": "https://drive.google.com/file/d/1j_XK52YbaApPffVfbbq1c0IL8k5en0J3/view?usp=sharing"
+          },
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "contents": [],
+                "align": "center",
+                "type": "text",
+                "weight": "bold",
+                "size": "md",
+                "text": "ระบบตรวจวัดและควบคุมคุณภาพน้ำ"
+              }
+            ],
+            "type": "box"
+          }
+        },
+        {
+          "direction": "ltr",
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "size": "md",
+                "contents": [],
+                "type": "text",
+                "align": "center",
+                "weight": "bold",
+                "text": "การพัฒนาระบบแดชบอร์ด"
+              }
+            ],
+            "type": "box"
+          },
+          "action": {
+            "type": "uri",
+            "uri": "https://drive.google.com/file/d/1nOQDcNIcQIcuJdL88_-T8jCXqcIluP8Y/view?usp=sharing"
+          },
+          "type": "bubble",
+          "hero": {
+            "aspectRatio": "1.100:1",
+            "size": "full",
+            "type": "image",
+            "aspectMode": "cover",
+            "url": "https://r2.easyimg.io/onr7rwyz6/62-4.jpg"
+          }
+        },
+        {
+          "type": "bubble",
+          "direction": "ltr",
+          "header": {
+            "layout": "vertical",
+            "type": "box",
+            "contents": [
+              {
+                "align": "center",
+                "contents": [],
+                "type": "text",
+                "weight": "bold",
+                "size": "md",
+                "text": "ระบบจองคิวร้านเสริมสวย"
+              }
+            ]
+          },
+          "action": {
+            "uri": "https://drive.google.com/file/d/1O34H9EFZiGt02zcbqGe9CxSK1l1QD_A4/view?usp=sharing",
+            "type": "uri"
+          },
+          "hero": {
+            "aspectMode": "cover",
+            "url": "https://r2.easyimg.io/tq6zksadv/screenshot_2024-03-18_150416.png",
+            "size": "full",
+            "aspectRatio": "1.100:1",
+            "type": "image"
+          }
+        },
+        {
+          "header": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "align": "center",
+                "weight": "bold",
+                "type": "text",
+                "text": "ระบบสารสนเทศอู่เคาะพ่นสี",
+                "size": "md",
+                "contents": []
+              }
+            ],
+            "type": "box"
+          },
+          "action": {
+            "uri": "https://drive.google.com/file/d/1jgtBi2_RIryyJct93TsuFwbc5VkeGWsa/view?usp=sharing",
+            "type": "uri"
+          },
+          "hero": {
+            "url": "https://r2.easyimg.io/xijpq5683/screenshot_2024-03-18_150018.png",
+            "type": "image",
+            "aspectMode": "cover",
+            "aspectRatio": "1.100:1",
+            "size": "full"
+          },
+          "type": "bubble",
+          "direction": "ltr"
+        }
+      ],
+      "type": "carousel"
+    },
+    "altText": "Flex Message"
+  }
+}
